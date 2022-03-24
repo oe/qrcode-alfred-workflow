@@ -3,7 +3,7 @@ generate QRCode in alfred workflow
 
 ![usage demo](assets/usage.gif)
 
-*Credits*: This is a swift clone of a php version(no original url found :( ) created by [WensonSmith](https://seekbetter.me). Due to the latest release of macOS 12.3, python2 has been removed, which broke the original workflow. So I reimplemented this workflow in Swift. It should be much more stable and faster.
+*Credits*: This is a swift clone of a php version(no original url found :( ) created by [WensonSmith](https://seekbetter.me). Due to the latest release of macOS 12.3, php has been removed, which broke the original workflow. So I reimplemented this workflow in Swift. It should be much more stable and faster.
 
 ## Install
 ### Requirements
